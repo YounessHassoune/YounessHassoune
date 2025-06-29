@@ -8,7 +8,7 @@
 
 ### Contact
 - 📧 Email: [uness.hassoune@gmail.com](mailto:uness.hassoune@gmail.com)
-- 🌐 Portfolio: [younesshassoune.com](http://younesshassoune.dev)
+- 🌐 Portfolio: [younesshassoune.dev](http://younesshassoune.dev)
 - 🐱 GitHub: [@younesshassoune](https://www.github.com/younesshassoune)
 - 💼 LinkedIn: [younesshassoune](https://www.linkedin.com/in/younesshassoune)
 - 🐦 Twitter: [@younesshassoune](https://www.twitter.com/younesshassoune)
